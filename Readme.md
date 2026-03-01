@@ -5,12 +5,28 @@
 [![Unity](https://img.shields.io/badge/Unity-6-black?logo=unity)](https://unity.com)
 [![Language](https://img.shields.io/badge/C%23-blue?logo=csharp)](https://docs.microsoft.com/en-us/dotnet/csharp/)
 [![Status](https://img.shields.io/badge/Status-In%20Development-orange)]()
+[![Status](https://img.shields.io/badge/Developer-John%20Victor-green)](https://www.linkedin.com/in/joao-paranhos/)
 
 ---
 
 ## 🎬 Gameplay
 
 [![Watch Gameplay](https://img.youtube.com/vi/XLE7tlRK9DU/maxresdefault.jpg)](https://www.youtube.com/watch?v=XLE7tlRK9DU)
+
+[Click here to watch demo on Youtube](https://img.youtube.com/vi/XLE7tlRK9DU)
+
+---
+
+## 🖼️ Screenshots
+
+![Screenshot 2](Docs/screenshots/screenshot_002.png)
+![Screenshot 1](Docs/screenshots/screenshot_001.png)
+![Screenshot 3](Docs/screenshots/screenshot_003.png)
+![Screenshot 4](Docs/screenshots/screenshot_004.png)
+![Screenshot 5](Docs/screenshots/screenshot_005.png)
+
+
+
 
 ---
 
